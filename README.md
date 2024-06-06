@@ -1,7 +1,3 @@
-# Webhooks
-empy
-https://discord.com/api/webhooks/1241750111667753060/vJCctO7COqNaKeABB7uahXintwunRv6qPdzj2i91rIm8csNVX7ZDVipQn0WZdTyhFfEp
+1241746809077104730
 
-steal
-
-https://discord.com/api/webhooks/1241750014863347773/S1mR0i482EWv4kdCyKERkpBN04MUFpwVBpYGG89pIsR5O_J7ll5Xmiqi8wwqqtJKgBe4
+MTI0ODI0NTI0MzM3NjA0NjExMQ.GXlfOt.aV8etKNUb8WhrT0JE2IolymvehiKHxwFuAWUnE
